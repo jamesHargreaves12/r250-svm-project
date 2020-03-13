@@ -2,3 +2,16 @@ aclImdb\ 2/*
 .idea/*
 venv/*
 uncased_L-12_H-768_A-12/*
+old_files/*
+data_files/*
+csv_files/*
+results_bayes_optimisation/*
+Quasi_Newton_S3VM/*
+opinion-lexicon-English/*
+models*
+experiments*
+doc2vec-embeddings/*
+bert_output/*
+bert_embedings/*
+config/*
+*__pycache__/*

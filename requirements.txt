@@ -67,7 +67,7 @@ sentencepiece==0.1.85
 six==1.14.0
 smart-open==1.9.0
 tensorboard==1.11.0
-tensorflow==1.11.0
+tensorflow==1.15.2
 tensorflow-estimator==2.1.0
 tensorflow-hub==0.7.0
 termcolor==1.1.0

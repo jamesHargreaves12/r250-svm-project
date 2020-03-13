@@ -1,0 +1,15 @@
+experiment_name
+with_pos_tag
+premade_vocab_path
+preprocess_file_location
+only_alphanumeric
+remove_nouns
+only_adverbs_adjectives
+remove_punc
+tfidf
+remove_infreq_words
+remove_words_not_in_test
+strip_accents
+premade_embedding_loc
+max_c
+remove_non_sentiment_punc

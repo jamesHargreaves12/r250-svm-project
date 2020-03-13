@@ -219,5 +219,5 @@ if __name__ == "__main__":
     #         run_experiment(yaml_file)
 
     # config_file = "doc2vec_embeddings_3000_tag.yaml"
-    config_file = "bert.yaml"
+    config_file = "vanilla.yaml"
     run_experiment(config_file)
